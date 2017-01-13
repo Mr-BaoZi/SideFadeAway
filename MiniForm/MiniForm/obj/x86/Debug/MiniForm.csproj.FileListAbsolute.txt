@@ -1,0 +1,9 @@
+D:\CODE\MiniForm\MiniForm\bin\Debug\MiniForm.exe
+D:\CODE\MiniForm\MiniForm\bin\Debug\MiniForm.pdb
+D:\CODE\MiniForm\MiniForm\obj\x86\Debug\MiniForm.Properties.Resources.resources
+D:\CODE\MiniForm\MiniForm\obj\x86\Debug\MiniForm.csproj.GenerateResource.Cache
+D:\CODE\MiniForm\MiniForm\obj\x86\Debug\MiniForm.exe
+D:\CODE\MiniForm\MiniForm\obj\x86\Debug\MiniForm.pdb
+D:\CODE\MiniForm\MiniForm\obj\x86\Debug\MiniForm.InputForm.resources
+D:\CODE\MiniForm\MiniForm\obj\x86\Debug\MiniForm.OutputForm.resources
+D:\CODE\MiniForm\MiniForm\obj\x86\Debug\MiniForm.csprojResolveAssemblyReference.cache
